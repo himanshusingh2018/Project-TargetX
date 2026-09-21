@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data artifacts (keep data/ directories tracked with .gitkeep or small sample CSVs only)
+data/processed/*.npy
+
+# OS / Editor metadata
+.DS_Store
+.vscode/
+.idea/

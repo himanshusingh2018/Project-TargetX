@@ -1,0 +1,61 @@
+Patient_ID,Age,ECOG_Status,Serum_Creatinine_mg_dL,ALT_xULN,Prior_Therapy_Lines,CDx_Biomarker_Positive,Eligible,Reason_Count,Disqualification_Audit
+PT-001,66,1,0.6,0.02,0,False,False,1,CDx Biomarker Negative
+PT-002,79,0,1.46,0.86,2,False,False,1,CDx Biomarker Negative
+PT-003,56,1,1.42,0.31,1,False,False,1,CDx Biomarker Negative
+PT-004,42,0,1.11,1.24,0,True,True,0,Meets All Protocol Criteria
+PT-005,70,2,0.91,0.23,1,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-006,35,0,0.58,1.41,2,True,True,0,Meets All Protocol Criteria
+PT-007,48,1,0.82,0.59,1,True,True,0,Meets All Protocol Criteria
+PT-008,66,0,1.36,3.31,1,False,False,2,CDx Biomarker Negative; Hepatic Toxicity Risk (ALT 3.31 > 3.0x ULN)
+PT-009,46,1,1.03,0.18,0,True,True,0,Meets All Protocol Criteria
+PT-010,50,1,0.95,0.5,0,False,False,1,CDx Biomarker Negative
+PT-011,38,0,1.28,0.14,1,False,False,1,CDx Biomarker Negative
+PT-012,38,3,1.51,3.1,1,False,False,4,Poor ECOG (3 > 1); CDx Biomarker Negative; Renal Impairment (Creatinine 1.51 > 1.5); Hepatic Toxicity Risk (ALT 3.1 > 3.0x ULN)
+PT-013,51,2,1.19,2.52,1,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-014,80,3,1.21,0.36,2,True,False,1,Poor ECOG (3 > 1)
+PT-015,63,2,1.58,1.29,3,False,False,4,Poor ECOG (2 > 1); CDx Biomarker Negative; Renal Impairment (Creatinine 1.58 > 1.5); Heavily Pre-treated (>2 prior lines)
+PT-016,67,1,1.16,2.04,1,False,False,1,CDx Biomarker Negative
+PT-017,51,2,0.99,0.97,1,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-018,30,0,1.34,0.91,2,False,False,1,CDx Biomarker Negative
+PT-019,49,0,1.01,0.33,1,False,False,1,CDx Biomarker Negative
+PT-020,80,0,0.97,0.12,1,True,True,0,Meets All Protocol Criteria
+PT-021,29,0,1.55,2.73,0,False,False,2,CDx Biomarker Negative; Renal Impairment (Creatinine 1.55 > 1.5)
+PT-022,51,0,1.0,2.77,0,False,False,1,CDx Biomarker Negative
+PT-023,71,0,0.5,1.2,3,True,False,1,Heavily Pre-treated (>2 prior lines)
+PT-024,57,2,1.22,0.5,2,True,False,1,Poor ECOG (2 > 1)
+PT-025,65,0,0.96,0.52,1,False,False,1,CDx Biomarker Negative
+PT-026,29,0,1.0,1.55,1,False,False,1,CDx Biomarker Negative
+PT-027,48,1,1.26,2.73,0,False,False,1,CDx Biomarker Negative
+PT-028,60,0,1.04,2.62,0,False,False,1,CDx Biomarker Negative
+PT-029,39,2,1.18,1.82,1,True,False,1,Poor ECOG (2 > 1)
+PT-030,49,0,0.5,1.23,1,False,False,1,CDx Biomarker Negative
+PT-031,71,3,0.77,0.11,2,False,False,2,Poor ECOG (3 > 1); CDx Biomarker Negative
+PT-032,52,2,1.59,0.21,1,True,False,2,Poor ECOG (2 > 1); Renal Impairment (Creatinine 1.59 > 1.5)
+PT-033,76,0,1.09,2.75,1,False,False,1,CDx Biomarker Negative
+PT-034,54,0,0.51,1.12,3,False,False,2,CDx Biomarker Negative; Heavily Pre-treated (>2 prior lines)
+PT-035,69,2,0.72,0.01,2,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-036,55,1,0.75,0.13,1,False,False,1,CDx Biomarker Negative
+PT-037,43,1,1.14,1.31,1,False,False,1,CDx Biomarker Negative
+PT-038,42,2,0.95,0.01,1,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-039,74,0,0.87,0.21,1,True,True,0,Meets All Protocol Criteria
+PT-040,78,0,1.1,0.95,1,False,False,1,CDx Biomarker Negative
+PT-041,71,0,1.27,1.41,2,False,False,1,CDx Biomarker Negative
+PT-042,79,2,1.01,1.27,0,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-043,30,1,0.9,0.3,0,False,False,1,CDx Biomarker Negative
+PT-044,64,0,0.95,1.49,0,False,False,1,CDx Biomarker Negative
+PT-045,78,0,1.22,0.32,0,False,False,1,CDx Biomarker Negative
+PT-046,34,0,1.1,0.47,2,False,False,1,CDx Biomarker Negative
+PT-047,48,0,1.37,1.65,2,False,False,1,CDx Biomarker Negative
+PT-048,36,1,0.7,1.26,1,False,False,1,CDx Biomarker Negative
+PT-049,66,1,0.83,2.27,0,False,False,1,CDx Biomarker Negative
+PT-050,45,2,1.37,1.29,1,False,False,2,Poor ECOG (2 > 1); CDx Biomarker Negative
+PT-051,31,1,0.82,1.01,1,True,True,0,Meets All Protocol Criteria
+PT-052,52,0,1.58,0.12,0,False,False,2,CDx Biomarker Negative; Renal Impairment (Creatinine 1.58 > 1.5)
+PT-053,41,1,1.59,0.55,1,True,False,1,Renal Impairment (Creatinine 1.59 > 1.5)
+PT-054,77,2,1.59,0.37,1,False,False,3,Poor ECOG (2 > 1); CDx Biomarker Negative; Renal Impairment (Creatinine 1.59 > 1.5)
+PT-055,36,1,0.79,0.34,1,True,True,0,Meets All Protocol Criteria
+PT-056,53,2,1.13,4.33,1,False,False,3,Poor ECOG (2 > 1); CDx Biomarker Negative; Hepatic Toxicity Risk (ALT 4.33 > 3.0x ULN)
+PT-057,80,1,0.93,0.6,0,False,False,1,CDx Biomarker Negative
+PT-058,29,1,1.42,2.67,1,True,True,0,Meets All Protocol Criteria
+PT-059,47,1,1.7,1.2,1,False,False,2,CDx Biomarker Negative; Renal Impairment (Creatinine 1.7 > 1.5)
+PT-060,55,0,1.41,1.9,1,True,True,0,Meets All Protocol Criteria
